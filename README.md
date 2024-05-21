@@ -1,2 +1,14 @@
-# DataStructureAlgorithm
-자료구조와 알고리즘
+# Data Structure & Algorithm
+
+## I. Data Structure
+
+- Stack
+- Queue
+- Linked List
+
+
+
+---
+
+## II. Algorithm
+
